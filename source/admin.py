@@ -1,7 +1,7 @@
 from flask import Blueprint
 
 
-admin = ('admin', __name__)
+admin = Blueprint('admin', __name__)
 
 
 @admin.route('/')

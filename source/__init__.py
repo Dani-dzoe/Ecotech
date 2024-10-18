@@ -3,7 +3,7 @@ from flask import Flask
 
 def create_app():
     app = Flask(__name__)
-    app.comfig("SECRET_KEY") = "QU1CKB0Y1110A"
+    app.config["SECRET_KEY"] = "QU1CKB0Y1110A"
     
     from .views import views
     from .auth import auth
