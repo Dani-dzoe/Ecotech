@@ -2,10 +2,10 @@ from flask import Blueprint
 
 
 
-views = Blueprint('views', __name__)
+view_b = Blueprint('views', __name__)
 
 
 
-@views.route('/')
+@view_b.route('/')
 def home():
     return "This is the homepage"

@@ -1,9 +1,9 @@
 from flask import Blueprint
 
 
-admin = Blueprint('admin', __name__)
+admin_b = Blueprint('admin', __name__)
 
 
-@admin.route('/')
+@admin_b.route('/')
 def admin():
     return "This is the admin Page"
