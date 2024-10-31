@@ -36,3 +36,10 @@ on the command line interface
 2. Add products to cart and proceed to checkout
 3. Login or create an account to complete purchase
 4. Track orders and view order history
+
+## Author
+
+- Daniel Mawutor Dzotepe
+  {https://github.com/Dani-dzoe}
+
+License
