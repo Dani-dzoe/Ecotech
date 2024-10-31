@@ -13,3 +13,4 @@ After installation, run the website with
 ```bash
 python3 main.py
 
+```
