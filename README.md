@@ -1,11 +1,15 @@
 # Ecotech
 
-=========
+## Installation
 
-** Installation **
+- Git clone the repository
+- Install all dependencies from the requirements.txt file
 
-- git clone the repository
-- install all dependencies from th requirements.txt file
+You can install all dependencies by typing 
+```bash
+pip install -r requirements.txt
+```
+on the command line interface
 
 ## Usage
 
