@@ -27,7 +27,10 @@ You can install all dependencies by typing
 pip install -r requirements.txt
 ```
 on the command line interface
-- Start the server: ```bash python3 main.py ```
+- Start the server:
+```bash
+python3 main.py
+```
 - Open your Browser and navigate to http://localhost:5000
 
 ## Usage
