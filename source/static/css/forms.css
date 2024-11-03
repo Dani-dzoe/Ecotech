@@ -32,7 +32,7 @@ body{
 .base .base-content .form h3{
     color: blue;
     font-family: bold;
-    font-size: 40px;
+    font-size: 25px;
 }
 .base .base-content .form hr{
     width: 88%;
@@ -48,7 +48,7 @@ body{
 }
 .base .base-content .email, .base .base-content .password, .base .base-content .name{
     margin-top: 3px;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: 500;
     font-family: 'Times New Roman', Times, serif;
 
@@ -58,12 +58,12 @@ body{
     border: none;
     outline: none;
     color: #fff;
-    font-size: 33px;
+    font-size: 22px;
 }
 .base .base-content .form .buttons input, .base .base-content .form .buttons a{
     margin-top: 10px;
     margin-left: 10px;
-    font-size: 33px;
+    font-size: 25px;
     font-family: normal;
     padding: 5 20px;
     text-decoration: none;
