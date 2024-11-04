@@ -1,7 +1,7 @@
 # ECOTECH E-COMMERCE WEBSITE
 
 ## Overview
-Ecotech is an online shopping destination for Home Appiances. Ecotech aims 
+Ecotech is an online shopping destination for Home & Kitchen Appiances. Ecotech aims 
 at providing a seamless and secure shopping experience for all our customers.
 
 ## Features
