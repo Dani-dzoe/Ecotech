@@ -42,5 +42,4 @@ python3 main.py
 - Daniel Mawutor Dzotepe
   {https://github.com/Dani-dzoe}
 
-License
 
