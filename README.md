@@ -8,13 +8,10 @@ at providing a seamless and secure shopping experience for all our customers.
 - User-friendly interface for easy navigation
 - Secure payment gateway for safe transactions
 - Product filtering and sorting for convenient searching
-- Customer account management for order tracking and history
 
 ## Technologies Used
 - Frontend: HTML3, CSS3, Javascript, Bootstrap
 - Backend: Python-Flask
-- Payment Gateway:
-- Content Management System:
 
 
 ## Installation
@@ -46,3 +43,4 @@ python3 main.py
   {https://github.com/Dani-dzoe}
 
 License
+
